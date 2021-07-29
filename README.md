@@ -3,7 +3,3 @@
 이 Repository를 fork한 후 pair와 함께 Simple Git Workflow를 연습하세요.
 
 이 스프린트는 제출할 필요는 없습니다.
-
-이 부분은 이선영의 작성문입니다.
-
-이 부분은 이승준의 작성문입니다.
